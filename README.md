@@ -1,6 +1,5 @@
 # Absenteeism-Random-Forest
 
-Project Description
 This project aims to predict employee absenteeism using an HR dataset. We use a decision tree model (and later an optimized random forest) to identify the key variables associated with high absenteeism.
 
 The idea was inspired by the AIHR article:
