@@ -32,10 +32,9 @@ Methodology
 Results
 1. Accuracy of best model (Optimized Random Forest): 82%
 2. Most influential features:
-   * JobTitle
-   * DepartmentName
    * Age
    * LengthService
+   * Genre_M
   
 Real-World Applications
 This analysis helps HR teams to:
